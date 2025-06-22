@@ -6,7 +6,7 @@ gigetはテンプレートとしてローカルディレクトリを選択する
 
 1. サーバーを起動する `node server.js {テンプレートディレクトリ}`
 1. gigetする
-   `npx giget@latest http://localhost:3000/template.tar.gz my-vite-app --install`
+   `npx giget@latest http://localhost:3000/template.tar.gz my-app --install`
 
 tarballは2種類ある。
 

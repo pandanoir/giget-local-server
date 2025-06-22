@@ -8,7 +8,7 @@ tarball and returns it.
 
 1. Start the server: `node server.js {template-directory}`
 2. Run `giget`:
-   `npx giget@latest http://localhost:3000/template.tar.gz my-vite-app --install`
+   `npx giget@latest http://localhost:3000/template.tar.gz my-app --install`
 
 There are two types of tarballs:
 
