@@ -1,0 +1,18 @@
+{
+  "name": "giget-local-server",
+  "version": "0.0.1",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Naoto Ikuno <moon_in_france@yahoo.co.jp>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "5.1.0",
+    "tar": "7.4.3"
+  }
+}
