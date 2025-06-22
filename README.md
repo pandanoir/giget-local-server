@@ -1,8 +1,8 @@
 [日本語版readme](./README.ja.md)
 
-`giget` does not support selecting a local directory as a template. To work
-around this, I created a server that compresses a template directory into a
-tarball and returns it.
+[`giget` does not support selecting a local directory as a template.](https://github.com/unjs/giget/issues/109)
+To work around this, I created a server that compresses a template directory
+into a tarball and returns it.
 
 # Usage
 

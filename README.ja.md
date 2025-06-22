@@ -1,6 +1,6 @@
 [English readme](./README.md)
 
-gigetはテンプレートとしてローカルディレクトリを選択する機能がない。そこで、テンプレートディレクトリをtarballに圧縮して返すサーバーを作った。
+[gigetはテンプレートとしてローカルディレクトリを選択する機能がまだない](https://github.com/unjs/giget/issues/109)。そこで、テンプレートディレクトリをtarballに圧縮して返すサーバーを作った。
 
 # 使い方
 
